@@ -1,1 +1,1 @@
-# S-riesTemporaisME607_Trab1
+# SériesTemporaisME607_Trab1
